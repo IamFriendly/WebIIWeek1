@@ -3,10 +3,10 @@
 	<body>
 		<p>testing123</p>
 		<div>
-			<input type=button>Login as Administrator</button>
+			<input type=button value = "Login as Administrator">
 		</div>
 		<div>
-			<input type=button>Login as Tester</button>
+			<input type=button value = "Login as Tester">
 		</div>
 	</body>
 </html>
