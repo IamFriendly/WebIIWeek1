@@ -11,3 +11,9 @@ body {
 	height: 100vh;
 	margin: auto;
 }
+#navbar {
+	background-colo: #235789;
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+}
