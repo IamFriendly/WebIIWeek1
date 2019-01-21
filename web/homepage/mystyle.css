@@ -36,3 +36,6 @@ li a {
 li a:hover {
 	text-decoration:underline;
 }
+li a:active {
+	background-color: #4a7fb2;
+}
