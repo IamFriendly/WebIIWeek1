@@ -17,11 +17,16 @@ body {
 	padding: 0;
 	overflow: hidden;
 }
+#nav {
+	width: 80%;
+	margin: auto;
+	background-color: #235789;
+}
 li {
 	float: left;
 }
 li a {
 	display: block;
 	padding: 8px;
-	background-colo: #235789;
+	background-color: #235789;
 }
