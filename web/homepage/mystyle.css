@@ -21,6 +21,8 @@ body {
 	width: 80%;
 	margin: auto;
 	background-color: #235789;
+	padding-right: 20px;
+	padding-left: 20px;
 }
 li {
 	float: left;
@@ -28,5 +30,6 @@ li {
 li a {
 	display: block;
 	padding: 8px;
-	background-color: #235789;
+	text-decoration:none;
+	color: white;
 }
