@@ -4,7 +4,9 @@
 	<link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>
 <body>
-	<?php $home="active"; include'header.php'; ?>
+	<div id=nav>
+		<?php $home="active"; include'header.php'; ?>
+	</div>
 	<div id="mainContent">
 		<h1>Who Am I</h1>
 		<h2>Brief History</h2>
