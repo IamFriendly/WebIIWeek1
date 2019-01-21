@@ -12,8 +12,16 @@ body {
 	margin: auto;
 }
 #navbar {
-	background-colo: #235789;
-	list-style-type:none;
+	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	overflow: hidden;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	padding: 8px;
+	background-colo: #235789;
 }
